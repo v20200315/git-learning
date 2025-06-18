@@ -1,1 +1,1 @@
-print("user model")
+print("user")
